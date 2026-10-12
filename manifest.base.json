@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "TidyMD - Page to Markdown, Tables & Code",
+  "short_name": "TidyMD",
+  "version": "1.0.0",
+  "description": "Copy or download any web page as clean Markdown. Tables and code blocks stay intact. Ready for Obsidian, notes and AI prompts.",
+  "author": "DigiVibeTech",
+  "homepage_url": "https://digivibetech.com",
+  "permissions": ["activeTab", "scripting", "storage", "contextMenus", "clipboardWrite", "downloads"],
+  "optional_host_permissions": ["<all_urls>"],
+  "host_permissions": ["https://extensionpay.com/*"],
+  "content_scripts": [{ "matches": ["https://extensionpay.com/*"], "js": ["ExtPay.js"], "run_at": "document_start" }],
+  "action": { "default_popup": "popup.html", "default_icon": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" } },
+  "icons": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" },
+  "options_page": "options.html"
+}

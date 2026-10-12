@@ -1,0 +1,2 @@
+body{font:13px system-ui;width:260px;margin:10px}h1{font-size:16px;margin:0 0 8px}h2{font-size:13px;margin:10px 0 4px}
+.row{display:flex;gap:6px;margin:4px 0}button{flex:1;padding:6px;cursor:pointer}#upgrade{width:100%;margin:8px 0;background:#2b6cb0;color:#fff;border:0;border-radius:4px}#msg{color:#2f855a;min-height:1em}
