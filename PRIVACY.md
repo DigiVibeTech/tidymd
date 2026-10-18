@@ -1,5 +1,5 @@
 # TidyMD Privacy Policy
-Effective 2026-10-11. Publisher: DigiVibeTech, Netherlands. Contact: contact@digivibetech.com
+Effective 2026-10-11. Publisher: DigiVibeTech, Netherlands. Contact: [digivibetech.com/support](https://digivibetech.com/support/)
 
 **What TidyMD does with your data**
 - TidyMD converts web pages to Markdown entirely in your browser. We do not collect, store or transmit page content, browsing history, or any personal data.
@@ -8,4 +8,4 @@ Effective 2026-10-11. Publisher: DigiVibeTech, Netherlands. Contact: contact@dig
 
 **What TidyMD does not include:** no analytics, no ads, no third-party trackers.
 
-**Your rights.** Under the GDPR you may ask what data we hold about you, or ask us to delete it. For TidyMD this is only Pro payment records held by our payment processors. Email contact@digivibetech.com.
+**Your rights.** Under the GDPR you may ask what data we hold about you, or ask us to delete it. For TidyMD this is only Pro payment records held by our payment processors. contact us via [digivibetech.com/support](https://digivibetech.com/support/).

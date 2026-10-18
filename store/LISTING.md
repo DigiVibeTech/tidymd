@@ -22,7 +22,7 @@ TidyMD Pro ($2.99/month or $19/year):
 
 Privacy: everything is converted on your device. TidyMD has no account, no analytics, and never sends page content anywhere. Payments for Pro are processed by ExtensionPay and Stripe.
 
-Open source (AGPL-3.0). Support: contact@digivibetech.com
+Open source (AGPL-3.0). Support: [digivibetech.com/support](https://digivibetech.com/support/)
 Publisher: DigiVibeTech, Netherlands
 
 ## Privacy practices (Chrome dashboard answers)
