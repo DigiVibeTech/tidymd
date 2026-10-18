@@ -1,7 +1,7 @@
 import ExtPay from 'extpay';
 import { renderTemplate, buildVars, DEFAULT_TEMPLATE, safeFilename, mergePages, obsidianUri } from './template.js';
 
-const extpay = ExtPay('tidymd'); // ExtensionPay extension id, registered by Hugo (see ACCOUNTS.md)
+const extpay = ExtPay('tidymd'); // ExtensionPay extension id
 extpay.startBackground();
 
 const api = globalThis.browser || globalThis.chrome;

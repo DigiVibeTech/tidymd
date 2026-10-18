@@ -6,7 +6,7 @@ import { gfm } from 'turndown-plugin-gfm';
 export function makeTurndown() {
   const td = new TurndownService({ headingStyle: 'atx', codeBlockStyle: 'fenced', bulletListMarker: '-', emDelimiter: '*' });
   td.use(gfm);
-  // Fix the #1 complaint of MarkDownload users: code blocks losing line breaks.
+  // Keep line breaks inside code blocks.
   td.addRule('preCode', {
     filter: (n) => n.nodeName === 'PRE',
     replacement: (_c, node) => {
