@@ -1,3 +1,13 @@
 node_modules/
 dist/
 *.zip
+
+# internal notes stay out of this public repo (rule 2026-10-18)
+VERIFY*.md
+NOTES*.md
+HUGO-*.md
+ACCOUNTS*.md
+EVIDENCE*.md
+BRAINSTORM*.md
+*.bak*
+.env*
