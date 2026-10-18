@@ -8,4 +8,4 @@ Effective 2026-10-11. Publisher: DigiVibeTech, Netherlands. Contact: [digivibete
 
 **What TidyMD does not include:** no analytics, no ads, no third-party trackers.
 
-**Your rights.** Under the GDPR you may ask what data we hold about you, or ask us to delete it. For TidyMD this is only Pro payment records held by our payment processors. contact us via [digivibetech.com/support](https://digivibetech.com/support/).
+**Your rights.** Under the GDPR you may ask what data we hold about you, or ask us to delete it. For TidyMD this is only Pro payment records held by our payment processors. Contact us via [digivibetech.com/support](https://digivibetech.com/support/).
